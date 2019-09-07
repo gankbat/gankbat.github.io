@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.gankbat.com</id>
     <title>GANKBAT</title>
-    <updated>2019-09-07T18:25:46.103Z</updated>
+    <updated>2019-09-07T18:30:09.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.gankbat.com"/>
     <link rel="self" href="https://blog.gankbat.com/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>持续学习</subtitle>
     <logo>https://blog.gankbat.com/images/avatar.png</logo>
     <icon>https://blog.gankbat.com/favicon.ico</icon>
     <rights>All rights reserved 2019, GANKBAT</rights>
