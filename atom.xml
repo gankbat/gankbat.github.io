@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://gankbat.github.io</id>
+    <id>http://blog.gankbat.com</id>
     <title>GANKBAT</title>
-    <updated>2019-09-07T18:09:18.723Z</updated>
+    <updated>2019-09-07T18:18:57.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://gankbat.github.io"/>
-    <link rel="self" href="https://gankbat.github.io/atom.xml"/>
+    <link rel="alternate" href="http://blog.gankbat.com"/>
+    <link rel="self" href="http://blog.gankbat.com/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://gankbat.github.io/images/avatar.png</logo>
-    <icon>https://gankbat.github.io/favicon.ico</icon>
+    <logo>http://blog.gankbat.com/images/avatar.png</logo>
+    <icon>http://blog.gankbat.com/favicon.ico</icon>
     <rights>All rights reserved 2019, GANKBAT</rights>
     <entry>
         <title type="html"><![CDATA[Markdown 语法说明 (简体中文版)]]></title>
-        <id>https://gankbat.github.io/post/markdown-yu-fa-shuo-ming</id>
-        <link href="https://gankbat.github.io/post/markdown-yu-fa-shuo-ming">
+        <id>http://blog.gankbat.com/post/markdown-yu-fa-shuo-ming</id>
+        <link href="http://blog.gankbat.com/post/markdown-yu-fa-shuo-ming">
         </link>
         <updated>2019-09-07T17:35:33.000Z</updated>
         <summary type="html"><![CDATA[<p>Markdown 是一种轻量级标记语言，让写作者专注于写作而不用关注样式。Coding 的许多版块均采用了 Markdown 语法，比如冒泡、讨论、Pull Request 等。</p>
@@ -441,8 +441,8 @@ than from [Yahoo](http://search.yahoo.com/ &quot;Yahoo Search&quot;) or
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://gankbat.github.io/post/hello-gridea</id>
-        <link href="https://gankbat.github.io/post/hello-gridea">
+        <id>http://blog.gankbat.com/post/hello-gridea</id>
+        <link href="http://blog.gankbat.com/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
