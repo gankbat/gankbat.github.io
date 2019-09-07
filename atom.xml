@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com</id>
-    <title>GankBat</title>
-    <updated>2019-09-07T15:50:53.792Z</updated>
+    <title>GANKBAT</title>
+    <updated>2019-09-07T15:52:10.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com"/>
     <link rel="self" href="https://github.com/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://github.com/images/avatar.png</logo>
     <icon>https://github.com/favicon.ico</icon>
-    <rights>All rights reserved 2019, GankBat</rights>
+    <rights>All rights reserved 2019, GANKBAT</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://github.com/post/hello-gridea</id>
