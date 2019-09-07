@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gankbat.github.io</id>
     <title>GANKBAT</title>
-    <updated>2019-09-07T18:03:07.954Z</updated>
+    <updated>2019-09-07T18:04:43.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gankbat.github.io"/>
     <link rel="self" href="https://gankbat.github.io/atom.xml"/>
@@ -10,15 +10,6 @@
     <logo>https://gankbat.github.io/images/avatar.png</logo>
     <icon>https://gankbat.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, GANKBAT</rights>
-    <entry>
-        <title type="html"><![CDATA[关于]]></title>
-        <id>https://gankbat.github.io/post/guan-yu</id>
-        <link href="https://gankbat.github.io/post/guan-yu">
-        </link>
-        <updated>2019-09-07T17:55:02.000Z</updated>
-        <content type="html"><![CDATA[<p>.........</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Markdown 语法说明 (简体中文版)]]></title>
         <id>https://gankbat.github.io/post/markdown-yu-fa-shuo-ming</id>
