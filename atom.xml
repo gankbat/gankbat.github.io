@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://gankbat.github.io/blog/</id>
+    <id>https://gankbat.github.io/</id>
     <title>GANKBAT</title>
-    <updated>2019-09-07T17:10:25.257Z</updated>
+    <updated>2019-09-07T17:11:41.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://gankbat.github.io/blog/"/>
-    <link rel="self" href="https://gankbat.github.io/blog//atom.xml"/>
+    <link rel="alternate" href="https://gankbat.github.io/"/>
+    <link rel="self" href="https://gankbat.github.io//atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://gankbat.github.io/blog//images/avatar.png</logo>
-    <icon>https://gankbat.github.io/blog//favicon.ico</icon>
+    <logo>https://gankbat.github.io//images/avatar.png</logo>
+    <icon>https://gankbat.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, GANKBAT</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://gankbat.github.io/blog//post/hello-gridea</id>
-        <link href="https://gankbat.github.io/blog//post/hello-gridea">
+        <id>https://gankbat.github.io//post/hello-gridea</id>
+        <link href="https://gankbat.github.io//post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
